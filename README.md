@@ -1,3 +1,3 @@
 ## Test
 
-[] lavar a roupa.
+lavar a roupa.
